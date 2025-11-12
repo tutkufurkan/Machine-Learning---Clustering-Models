@@ -274,15 +274,15 @@ Apache License 2.0 - see LICENSE file for details.
 - [Hierarchical Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html)
 - [SciPy Dendrogram](https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.dendrogram.html)
 
-### Related Projects
-
 **My Machine Learning Series:**
 
-- 🔍 **Clustering Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-clustering-models) [[GitHub]](https://github.com/sekertutku/Machine-Learning---Clustering-Models) *(Current)*
+- 🔍 **Clustering Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-clustering-models) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Clustering-Models) *(Current)*
 
-- 🎯 **Classification Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-classifications-models) [[GitHub]](https://github.com/sekertutku/Machine-Learning---Classifications-Models)
+- 🚀 **Advanced Topics** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Advanced-Topics)
 
-- 📈 **Regression Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models) [[GitHub]](https://github.com/sekertutku/Machine-Learning---Regression-Models)
+- 🎯 **Classification Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-classifications-models) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Classifications-Models)
+
+- 📈 **Regression Models** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models) [[GitHub]](https://github.com/tutkufurkan/Machine-Learning---Regression-Models)
 
 ## Acknowledgments
 
